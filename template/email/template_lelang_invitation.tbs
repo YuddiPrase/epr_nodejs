@@ -1,0 +1,5 @@
+<div class="body">
+	<h2>Lelang Invitation</h2>
+    <p>{{body}}</p>
+    <p style="width: 100%; background: orange">&nbsp;</p>
+</div>

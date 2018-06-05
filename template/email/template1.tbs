@@ -1,0 +1,4 @@
+<div class="body">
+    <p>{{body}}</p>
+    <p style="width: 100%; background: yellow">&nbsp;</p>
+</div>
